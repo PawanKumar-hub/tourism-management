@@ -78,7 +78,7 @@ int main()
             case '1': options("Delhi",t1); break;
             case '2': options("Mumbai",t1); break;
             case '3': options("Chennai",t1); break;
-            case '4': options("Bengaluru",t1); break;
+            case '4': options("Bangaluru",t1); break;
             case '5': return 0;
             
             default : cout<<"Wrong Input \n";
